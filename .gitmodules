@@ -1,0 +1,3 @@
+[submodule "CrSBr-monolayer-to-bulk"]
+	path = CrSBr-monolayer-to-bulk
+	url = git@github.com:sahashemip/CrSBr-monolayer-to-bulk.git
